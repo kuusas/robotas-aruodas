@@ -1,0 +1,4 @@
+/var/result/*
+!/var/result/.gitkeep
+/var/cache/*
+!/var/cache/.gitkeep

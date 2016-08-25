@@ -11,3 +11,6 @@
 ```
     $ php search.php http://www.aruodas.lt/?FAreaOverAllMin=50&FDistrict=1&obj=1&FPriceMax=90000&FQuartal%5B0%5D=23&FRegion=461&FRoomNumMin=3&mod=Siulo&act=makeSearch&date_from=1471866843 '/ulvydo|nedidelis/'
 ```
+
+## Išsižadėjimas
+Kurta buitinėm reikmėm. Naudokite protingai.
